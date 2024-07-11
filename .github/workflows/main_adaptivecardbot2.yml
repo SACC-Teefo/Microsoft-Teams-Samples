@@ -54,4 +54,4 @@ jobs:
           app-name: 'AdaptiveCardbot2'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5A378CF7BEDA40C7915E75AD47231A50 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CFF5F099A428477495AB7B4269029584 }}
